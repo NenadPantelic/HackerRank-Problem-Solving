@@ -5,7 +5,7 @@ Created on Tue Feb 11 18:31:34 2020
 
 @author: nenad
 """
-
+# medium
 #check two things: 
 #1. Has this person moved more than two positions forward?
 # 2. How many times has this person been bribed?

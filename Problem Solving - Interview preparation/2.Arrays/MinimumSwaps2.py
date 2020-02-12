@@ -6,7 +6,7 @@ Created on Tue Feb 11 20:58:46 2020
 @author: nenad
 """
 
-
+# Medium O(nlog(n)), Aux memory - O(n)
 def count_swaps(arr):
     num_of_swaps = 0
     positions = list(enumerate(arr))

@@ -5,7 +5,7 @@ Created on Tue Feb 11 22:32:54 2020
 
 @author: nenad
 """
-
+# hard - linear time
 
 def array_manipulation(n, queries):
     arr = [0] * (n+1)
